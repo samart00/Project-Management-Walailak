@@ -1,0 +1,161 @@
+{
+    "_id" : ObjectId("5881b5c637d61b1ca0000496"),
+    "amountofproject" : 13,
+    "auth_key" : "yJaI9QwOIBWAXJ7OIO_o5HBXjVFfAb_C",
+    "created_at" : 1484895686,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce197"),
+    "email" : "user@user.user",
+    "firstname" : "ยูเซอร์์",
+    "lastname" : "โนพาวเวอร์",
+    "password_hash" : "$2y$13$NqqTCrGbvvTfK6WaQzcmee.0FyGIGr.0FUY4R2k5h0Ia5oOMLFGUO",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "username" : "user"
+}
+{
+    "_id" : ObjectId("5881b3f937d61b1ca000048d"),
+    "amountofproject" : 13,
+    "auth_key" : "zldtOqKxs9Feg9veZ3okMjIBmw3DSwIp",
+    "created_at" : 1484895225,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "email" : "admin@admin.admin",
+    "firstname" : "แอดมิน",
+    "lastname" : "แอดมิน",
+    "password_hash" : "$2y$13$38aSU0yr.CIoTrQRSKkmi.eFDFEbjtsln25PQqtUqB/MmREXk3xlu",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "username" : "admin"
+}
+{
+    "_id" : ObjectId("5881b42337d61b1ca000048e"),
+    "amountofproject" : 13,
+    "auth_key" : "PtjsWxOwBntJ-N-F-GaiK-sN9WKg5INm",
+    "created_at" : 1484895267,
+    "email" : "office@office.office",
+    "firstname" : "ออฟฟิต",
+    "lastname" : "ออฟฟิต",
+    "password_hash" : "$2y$13$ZpTZWeflgzh28WKPmJO/k.W4nLR.UW23p5ZphByLp7TditXyf/.sa",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "username" : "office"
+}
+{
+    "_id" : ObjectId("5881b44337d61b1ca000048f"),
+    "amountofproject" : 13,
+    "auth_key" : "T_43UDN9IX57UbrHsrZ51jfIVlcCUdcE",
+    "created_at" : 1484895299,
+    "email" : "system@system.system",
+    "firstname" : "ซิสเต็ม",
+    "lastname" : "ซิสเต็ม",
+    "password_hash" : "$2y$13$jikfHALmWhFra5SNRN7foO.NUNfmku6.CZtaA0nPG9WDXbSlpQOBq",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "username" : "system"
+}
+{
+    "_id" : ObjectId("5881b5ac37d61b1ca0000495"),
+    "amountofproject" : 13,
+    "auth_key" : "mIH9WkaMbhRlhGFaBGNcgKodc_0qWqdT",
+    "created_at" : 1484895660,
+    "email" : "noman@noman.noman",
+    "firstname" : "โนแมน",
+    "lastname" : "พาวเวอร์",
+    "password_hash" : "$2y$13$WJQDxf2.T0vcRbspgZ9FBe0iIlCDdDYRtZPML/rzcZC5D5Cp11XMa",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "username" : "noman"
+}
+{
+    "_id" : ObjectId("5881b55d37d61b1ca0000493"),
+    "amountofproject" : 13,
+    "auth_key" : "RQ90pDpjbwXsKP27_b0UoMsrtizVKQ0z",
+    "created_at" : 1484895581,
+    "email" : "marry@marry.marry",
+    "firstname" : "แมรี่",
+    "lastname" : "เมรินด้า",
+    "password_hash" : "$2y$13$Hs/h6okLGNvS9xAIia2KfOf0FEypWOAH.Vf/7z9yctBNKv/pLMDce",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "username" : "marry"
+}
+{
+    "_id" : ObjectId("5881b53b37d61b1ca0000492"),
+    "amountofproject" : 13,
+    "auth_key" : "7asDZL5tX_Gs7wGhJiElASPTSY8W7Z1u",
+    "created_at" : 1484895547,
+    "email" : "paris@paris.paris",
+    "firstname" : "ปารีส",
+    "lastname" : "นี่นา",
+    "password_hash" : "$2y$13$//9Lqpp9IcSPgEBf8v7C9OQtaQyAJ/zH1uGo9PUSljaygB545H9tW",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "username" : "paris"
+}
+{
+    "_id" : ObjectId("5881b51037d61b1ca0000491"),
+    "amountofproject" : 13,
+    "auth_key" : "bEgxjZnvbxCxbsMxPjqJU0RdOhjfT0-X",
+    "created_at" : 1484895504,
+    "email" : "tony@tony.tony",
+    "firstname" : "โทนี่",
+    "lastname" : "สตาร์ก",
+    "password_hash" : "$2y$13$v9oAoNykC1vIsuMSKZ.YHejkIZVT9DHxONI/.dlfOwpVkggaItGVq",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "username" : "tony"
+}
+{
+    "_id" : ObjectId("5881b58637d61b1ca0000494"),
+    "amountofproject" : 13,
+    "auth_key" : "SMYSdOKEgdMVJmwEcR_rPIN5XDg6e0aD",
+    "created_at" : 1484895622,
+    "email" : "victoria@victoria.victoria",
+    "firstname" : "วิคตอเรีย",
+    "lastname" : "เมริซ่า",
+    "password_hash" : "$2y$13$3qp0FsxxTaPpGOIdP8fbKuS2OzyjYWvc4qs/OzeRqR93niTzOcLey",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "username" : "victoria"
+}
+
+{
+    "_id" : ObjectId("5881b46337d61b1ca0000490"),
+    "amountofproject" : 13,
+    "auth_key" : "astHnYiJqV6rfv9cd81Diq79L1gHkp8M",
+    "created_at" : 1484895331,
+    "email" : "lnwpeayo@lnwpeayo.lnwpeayo",
+    "firstname" : "นัทธพงศ์",
+    "lastname" : "ซุ่นสั้น",
+    "password_hash" : "$2y$13$LlVr7IF.ZiTRHMGOdcyu5O69hg/WA2EjXT1W2s.26u8xSKjQCuI2K",
+    "policy" : 7,
+    "role" : "user",
+    "status" : 10,
+    "updated_at" : 1491204114,
+    "departmentId" : ObjectId("5890aac1847cea4ab49ce196"),
+    "username" : "lnwpeayo"
+}

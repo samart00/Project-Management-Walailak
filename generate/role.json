@@ -1,0 +1,33 @@
+
+{
+    "_id" : ObjectId("58c7a67b010b6cd7cfa14a1e"),
+    "roleName" : "ผู้ดูแลระบบ",
+    "description" : "เป็นผู้ดูแลระบบนะครับ",
+    "activeFlag" : "1"
+}
+
+
+{
+    "_id" : ObjectId("58c9075e9603b317a0001a47"),
+    "roleName" : "ผู้ใช้งานระบบ",
+    "description" : "เป็นผู้ใช้งานระบบ",
+    "activeFlag" : 1,
+    "createDate" : {
+        "sec" : 1489569630,
+        "usec" : 0
+    },
+    "createBy" : ObjectId("5881b3f937d61b1ca000048d")
+}
+
+
+{
+    "_id" : ObjectId("58c918cd9603b317a0001a48"),
+    "roleName" : "aaaaaa",
+    "description" : "",
+    "activeFlag" : 1,
+    "createDate" : {
+        "sec" : 1489574093,
+        "usec" : 0
+    },
+    "createBy" : ObjectId("5881b3f937d61b1ca000048d")
+}

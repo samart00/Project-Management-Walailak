@@ -1,0 +1,86 @@
+@CHARSET "UTF-8";
+.content-wrapper{
+	min-height: 1000px !important;
+}
+
+.close{
+	
+	text-indent: 0px;
+}
+
+.dashboard-stat2.bordered {
+    border: 1px solid #e7ecf1;
+}
+
+.dashboard-stat2 {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    background: #fff;
+    padding: 15px 15px 30px;
+}
+
+.dashboard-stat2, .dashboard-stat2 .display {
+    margin-bottom: 20px;
+}
+
+.dashboard-stat, .dashboard-stat2, .page-md .widget-bg-color-white, .page-md .widget-blog, .page-md .widget-carousel, .page-md .widget-map, .page-md .widget-progress-element, .page-md .widget-socials {
+    box-shadow: 0 2px 3px 2px rgba(0,0,0,.03);
+}
+
+body {
+    color: #34495e;
+    padding: 0!important;
+    margin: 0!important;
+    direction: "ltr";
+    font-size: 14px;
+}
+
+.chart-tooltip, .chart-tooltip .label, .chat-form, .dashboard-stat2 .display:after, .dashboard-stat2 .progress-info, .dashboard-stat2 .progress-info .progress, .dashboard-stat:after, .dropdown-menu-v2>li>a, .dropdown-menu>li>a, .feeds li .col1, .feeds li:after, .form .form-actions:after, .general-item-list>.item>.item-head:after, .portlet-form .form-actions:after, .portlet>.portlet-body, .portlet>.portlet-title:after, .social-icons:after, .tabbable:after, .table-toolbar:after, .tasks-widget .task-footer:after, .tasks-widget:after, .tiles .tile .tile-object:after, .tiles:after, .timeline .timeline-body:after, .widget-news .widget-news-right-body .widget-news-right-body-title {
+    clear: both;
+}
+
+.dashboard-stat2 .progress-info .progress {
+    margin: 0;
+    height: 4px;
+    display: block;
+}
+
+.progress {
+    border: 0;
+    background-image: none;
+    filter: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    height: 8px;
+    border-radius: 0!important;
+}
+
+.dashboard-stat2 .progress-info .status {
+    margin-top: 5px;
+    font-size: 11px;
+    color: #AAB5BC;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.dashboard-stat2 .progress-info .status .status-title {
+    float: left;
+    display: inline-block;
+}
+
+.dashboard-stat2 .progress-info .status .status-number {
+    float: right;
+    display: inline-block;
+}
+
+.btn:not(.btn-sm):not(.btn-lg) {
+    line-height: 1.44;
+}
+
+.alert, .badge, .btn, .btn-group>.btn, .btn.btn-link:hover, .icon-btn, .label, .list-group1, .md-shadow-z-1, .note, .panel, .social-icons li>a, .social-icons.social-icons-color>li>a, .well {
+    box-shadow: 0 1px 3px rgba(0,0,0,.1), 0 1px 2px rgba(0,0,0,.18);
+}

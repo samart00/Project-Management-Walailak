@@ -1,0 +1,738 @@
+{
+    "_id" : ObjectId("58ca3cfcc2a4db2629d298b0"),
+    "created_at" : 1489570223,
+    "data" : null,
+    "description" : null,
+    "name" : "/project/index",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489570223
+}
+{
+    "_id" : ObjectId("58cb6de237d61b230c006e17"),
+    "created_at" : 1489726946,
+    "data" : null,
+    "description" : null,
+    "name" : "/category/create",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489726946
+}
+{
+    "_id" : ObjectId("58c90998db22a0187c005f4d"),
+    "name" : "/gii", 
+    "type" : 0,
+    "description" : null,
+    "rule_name" : null,
+    "data" : null,
+    "created_at" : 1489570200,
+    "updated_at" : 1489570200,
+    "parents" : [ 
+        "admin"
+    ]
+}
+{
+    "_id" : ObjectId("58cb744a37d61b230c006e1b"),
+    "created_at" : 1489728586,
+    "data" : null,
+    "description" : null,
+    "name" : "/category/geteditcategory",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489728586
+}
+{
+    "_id" : ObjectId("58cb7902c2a4db2629d298b3"),
+    "name" : "/debug/*",
+    "type" : 0,
+    "description" : null,
+    "rule_name" : null,
+    "data" : null,
+    "created_at" : 1489570223,
+    "updated_at" : 1489570223,
+    "parents" : [ 
+        "admin"
+    ]
+}
+{
+    "_id" : ObjectId("58cf754ef84bfe13b0003286"),
+    "created_at" : 1489990990,
+    "data" : null,
+    "description" : null,
+    "name" : "/upload/index",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489990990
+}
+{
+    "_id" : ObjectId("58c7a898db22a01e4000689d"),
+    "created_at" : 1489479832,
+    "data" : null,
+    "description" : null,
+    "name" : "/admin/*", 
+    "parents" : [ 
+        "admin", 
+        "reporter"
+    ],
+    "rule_name" : null,
+    "type" : 0,
+    "updated_at" : 1489479832
+}
+{
+    "_id" : ObjectId("58cb7ae237d61b230c006e1e"),
+    "created_at" : 1489730274,
+    "data" : null,
+    "description" : null,
+    "name" : "/category/view",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489730274
+}
+{
+    "_id" : ObjectId("58c909a4db22a0187c005f4e"),
+    "created_at" : 1489570212,
+    "data" : null,
+    "description" : null,
+    "name" : "/category/index",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489570212
+}
+
+{
+    "_id" : ObjectId("58cb7b4137d61b230c006e1f"),
+    "created_at" : 1489730369,
+    "data" : null,
+    "description" : null,
+    "name" : "/category/delete",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489730369
+}
+
+{
+    "_id" : ObjectId("58d287474389190f8c003788"),
+    "created_at" : 1490192199,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/geteditteam",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490192199
+}
+
+{
+    "_id" : ObjectId("58d3f1e54389191890000417"),
+    "created_at" : 1490285029,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/addmember",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490285029
+}
+
+{
+    "_id" : ObjectId("58cb5102acdfc217c4004d16"),
+    "created_at" : 1489719554,
+    "data" : null,
+    "description" : null,
+    "name" : "/policy/index",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489719554
+}
+
+{
+    "_id" : ObjectId("58d4bd8eacdfc223440009b8"),
+    "created_at" : 1490337166,
+    "data" : null,
+    "description" : null,
+    "name" : "/policy/setamount",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490337166
+}
+
+{
+    "_id" : ObjectId("58cbab01c2a4db2629d298b5"),
+    "activeFlag" : 1,
+    "createBy" : ObjectId("5881b3f937d61b1ca000048d"),
+    "created_at" : 1489570200,
+    "data" : null,
+    "description" : "เป็นแอดมินนะฮะ",
+    "name" : "admin",
+    "parents" : [],
+    "rule_name" : null,
+    "type" : 1,
+    "updated_at" : 1489570200
+}
+
+{
+    "_id" : ObjectId("58cf6d7837d61b1fdc006968"),
+    "activeFlag" : 2,
+    "createBy" : ObjectId("5881b3f937d61b1ca000048d"),
+    "created_at" : 1489988984,
+    "data" : null,
+    "description" : "5555+",
+    "name" : "user",
+    "rule_name" : null,
+    "type" : 1,
+    "updated_at" : 1490791246
+}
+
+{
+    "_id" : ObjectId("58d4cee337d61b2868000808"),
+    "created_at" : 1490341603,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/delete",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490341603
+}
+
+{
+    "_id" : ObjectId("58d4ed7adb22a012e8007a9a"),
+    "created_at" : 1490349434,
+    "data" : null,
+    "description" : null,
+    "name" : "/category/edit",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490349434
+}
+
+{
+    "_id" : ObjectId("58d7a08a37d61b29a8004d47"),
+    "created_at" : 1490526346,
+    "data" : null,
+    "description" : null,
+    "name" : "/assign/index",
+    "parents" : [ 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490526346
+}
+
+{
+    "_id" : ObjectId("58d9e70c37d61b19f0006099"),
+    "created_at" : 1490675468,
+    "data" : null,
+    "description" : null,
+    "name" : "/assign/addmember",
+    "parents" : [ 
+        "/assign/add"
+    ],
+    "rule_name" : null,
+    "type" : 0,
+    "updated_at" : 1490675468
+}
+
+{
+    "_id" : ObjectId("58cba6699603b30a940070b9"),
+    "created_at" : 1489741417,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/edit",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489741417
+}
+
+{
+    "_id" : ObjectId("58dc8fba9603b30f70000808"),
+    "created_at" : 1490849722,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/permission",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490849722
+}
+
+{
+    "_id" : ObjectId("58d8eb7f9603b316a40008bf"),
+    "created_at" : 1490611071,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/add",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490611071
+}
+
+{
+    "_id" : ObjectId("58d33ff59603b31328006be8"),
+    "created_at" : 1490239477,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/delete",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490239477
+}
+
+{
+    "_id" : ObjectId("58dc9b34438919182000600a"),
+    "created_at" : 1490852660,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/add",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490852660
+}
+
+{
+    "_id" : ObjectId("58cf898c4389197dd4003d77"),
+    "created_at" : 1489996172,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/index",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489996172
+}
+
+{
+    "_id" : ObjectId("58d0e522438919ba70003528"),
+    "created_at" : 1490085154,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/member",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490085154
+}
+
+{
+    "name" : "aaa",
+    "description" : "",
+    "activeFlag" : 2,
+    "type" : 1,
+    "createDate" : {
+        "sec" : 1490688630,
+        "usec" : 0
+    },
+    "createBy" : ObjectId("5881b3f937d61b1ca000048d"),
+    "created_at" : 1490688630,
+    "updated_at" : "",
+    "rule_name" : null,
+    "_id" : ObjectId("58da1a769603b311800047c3")
+}
+
+{
+    "name" : "ddd",
+    "description" : "",
+    "activeFlag" : 1,
+    "type" : 1,
+    "createDate" : {
+        "sec" : 1490688653,
+        "usec" : 0
+    },
+    "createBy" : ObjectId("5881b3f937d61b1ca000048d"),
+    "created_at" : 1490688653,
+    "updated_at" : "",
+    "rule_name" : null,
+    "_id" : ObjectId("58da1a8d9603b311800047c5")
+}
+
+{
+    "_id" : ObjectId("58cb9d779603b30a940070b7"),
+    "created_at" : 1489739127,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/index",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489739127
+}
+
+{
+    "_id" : ObjectId("58cb9e409603b30a940070b8"),
+    "created_at" : 1489739328,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/create",
+    "parents" : [ 
+        "aaa", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489739328
+}
+
+{
+    "_id" : ObjectId("58cf48849603b30d7c006827"),
+    "created_at" : 1489979524,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/geteditrole",
+    "parents" : [ 
+        "/role/edit", 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489979524
+}
+
+{
+    "_id" : ObjectId("58cf64459603b30d7c006830"),
+    "created_at" : 1489986629,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/view",
+    "parents" : [ 
+        "aaa", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489986629
+}
+
+{
+    "_id" : ObjectId("58d9e3ee37d61b19f0006097"),
+    "created_at" : 1490674670,
+    "data" : null,
+    "description" : null,
+    "name" : "/assign/add",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490674670
+}
+
+{
+    "_id" : ObjectId("58d9e3c537d61b19f0006095"),
+    "created_at" : 1490674629,
+    "data" : null,
+    "description" : null,
+    "name" : "/assign/management",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490674629
+}
+
+{
+    "_id" : ObjectId("58d9edcb37d61b19f000609b"),
+    "created_at" : 1490677195,
+    "data" : null,
+    "description" : null,
+    "name" : "/assign/removemember",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490677195
+}
+
+{
+    "_id" : ObjectId("58d0f95337d61b0fb8003aa7"),
+    "created_at" : 1490090323,
+    "data" : null,
+    "description" : null,
+    "name" : "/category/changeactiveflag",
+    "parents" : [ 
+        "ddd", 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490090323
+}
+
+{
+    "_id" : ObjectId("58dc71434389191198002cd4"),
+    "created_at" : 1490841923,
+    "data" : null,
+    "description" : null,
+    "name" : "/comment/*",
+    "parents" : [ 
+        "user", 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490841923
+}
+
+{
+    "_id" : ObjectId("58ca46c8c2a4db2629d298b1"),
+    "created_at" : 1489570223,
+    "data" : null,
+    "description" : null,
+    "name" : "/even/*", 
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489570223
+}
+
+{
+    "_id" : ObjectId("58d4bd68acdfc223440009b7"),
+    "created_at" : 1490337128,
+    "data" : null,
+    "description" : null,
+    "name" : "/policy/setallamount",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490337128
+}
+
+{
+    "_id" : ObjectId("58dc90069603b30f70000809"),
+    "created_at" : 1490849798,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/addpermission",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490849798
+}
+
+{
+    "_id" : ObjectId("58d0f6ae9603b31710006748"),
+    "created_at" : 1490089646,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/changeactiveflag",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490089646
+}
+
+{
+    "_id" : ObjectId("58dc91089603b30f7000080a"),
+    "created_at" : 1490850056,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/removepermission",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490850056
+}
+
+{
+    "_id" : ObjectId("58da0fdcdb22a01088004798"),
+    "created_at" : 1490685916,
+    "data" : null,
+    "description" : null,
+    "name" : "/team-management/*", 
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490685916
+}
+
+{
+    "_id" : ObjectId("58cf899e4389197dd4003d78"),
+    "created_at" : 1489996190,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/create",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1489996190
+}
+
+{
+    "_id" : ObjectId("58d279e34389190f8c003785"),
+    "created_at" : 1490188771,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/edit",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490188771
+}
+
+{
+    "_id" : ObjectId("58dca434438919182000600e"),
+    "created_at" : 1490854964,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/removemember",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490854964
+}
+
+{
+    "_id" : ObjectId("58d4ba92438919e438001d05"),
+    "created_at" : 1490336402,
+    "data" : null,
+    "description" : null,
+    "name" : "/team/view",
+    "parents" : [ 
+        "admin", 
+        "aaa"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1490336402
+}
+
+{
+    "name" : "ผู้ใช้งานระบบ",
+    "description" : "",
+    "activeFlag" : 1,
+    "type" : 1,
+    "createDate" : {
+        "sec" : 1490950576,
+        "usec" : 0
+    },
+    "createBy" : ObjectId("5881b3f937d61b1ca000048d"),
+    "created_at" : 1490950576,
+    "updated_at" : "",
+    "rule_name" : "",
+    "_id" : ObjectId("58de19b09603b3151000730b")
+}
+
+{
+    "_id" : ObjectId("58e201ff9603b31348004768"),
+    "created_at" : 1491206655,
+    "data" : null,
+    "description" : null,
+    "name" : "/role/assignemployeetype",
+    "parents" : [ 
+        "admin"
+    ],
+    "rule_name" : null,
+    "type" : 2,
+    "updated_at" : 1491206655
+}

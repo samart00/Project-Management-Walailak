@@ -1,0 +1,6 @@
+{
+    "_id" : ObjectId("58d0dea64bd37b8e25cf0d91"),
+    "defaultPolicy" : "13",
+    "description" : "ค่าเริ่มต้นของจำนวนโครงการที่สามารถสร้างได้",
+    "policyName" : "จำนวนโครงการ"
+}

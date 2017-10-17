@@ -1,0 +1,47 @@
+
+{
+    "_id" : ObjectId("5890aac1847cea4ab49ce196"),
+    "department_name" : "วิจัยและพัฒนาเทคโนโลยี"
+}
+
+
+{
+    "_id" : ObjectId("5890aac1847cea4ab49ce197"),
+    "department_name" : "บัญชี"
+}
+
+
+{
+    "_id" : ObjectId("5890ab36847cea4ab49ce198"),
+    "department_name" : "บุคคล"
+}
+
+
+{
+    "_id" : ObjectId("5890aba0847cea4ab49ce199"),
+    "department_name" : "สื่อสารและการตกแต่งภายใน"
+}
+
+
+{
+    "_id" : ObjectId("5890aba0847cea4ab49ce19a"),
+    "department_name" : "ลูกค้าสัมพันธ์"
+}
+
+
+{
+    "_id" : ObjectId("5890aba0847cea4ab49ce19b"),
+    "department_name" : "ออกแบบและพัฒนาสินค้า"
+}
+
+
+{
+    "_id" : ObjectId("5890aba0847cea4ab49ce19c"),
+    "department_name" : "การเงินและปฏิบัติการสายธุรกิจ"
+}
+
+
+{
+    "_id" : ObjectId("5890aba0847cea4ab49ce19d"),
+    "department_name" : "ฝ่ายการตลาด"
+}

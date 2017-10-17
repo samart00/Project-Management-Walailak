@@ -1,0 +1,105 @@
+
+{
+    "user_id" : "5881b51037d61b1ca0000491",
+    "item_name" : "ผู้ใช้งานระบบ",
+    "created_at" : 1489993964,
+    "_id" : ObjectId("58cf80ec37d61b1fdc00696b")
+}
+
+{
+    "_id" : ObjectId("58c7b28fdb22a01e400068a1"),
+    "user_id" : "5881b3f937d61b1ca000048d",
+    "item_name" : "admin",
+    "created_at" : 1489482383
+}
+
+{
+    "_id" : ObjectId("58cf6d9337d61b1fdc006969"),
+    "created_at" : 1489989011,
+    "item_name" : "user",
+    "user_id" : "5881b5c637d61b1ca0000496"
+}
+
+{
+    "_id" : ObjectId("58dbaa8137d61b1048006cb5"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b44337d61b1ca000048f"
+}
+
+{
+    "_id" : ObjectId("58dbaa8137d61b1048006cb6"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b46337d61b1ca0000490"
+}
+
+{
+    "_id" : ObjectId("58dbaa8137d61b1048006cb7"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b53b37d61b1ca0000492"
+}
+
+{
+    "_id" : ObjectId("58dbaa8137d61b1048006cb8"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b58637d61b1ca0000494"
+}
+
+{
+    "_id" : ObjectId("58dbaa8137d61b1048006cb9"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b42337d61b1ca000048e"
+}
+
+{
+    "_id" : ObjectId("58dbaa8137d61b1048006cba"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b55d37d61b1ca0000493"
+}
+
+{
+    "_id" : ObjectId("58dbaa8237d61b1048006cbb"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b3f937d61b1ca000048d"
+}
+
+{
+    "_id" : ObjectId("58dbaa8237d61b1048006cbc"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b51037d61b1ca0000491"
+}
+
+{
+    "_id" : ObjectId("58dbaa8237d61b1048006cbd"),
+    "created_at" : 0,
+    "item_name" : "user",
+    "user_id" : "5881b5ac37d61b1ca0000495"
+}
+
+{
+    "user_id" : "5881b58637d61b1ca0000494",
+    "item_name" : "aaa",
+    "created_at" : 0,
+    "_id" : ObjectId("58dbb5d237d61b1048006ccd")
+}
+
+{
+    "user_id" : "5881b42337d61b1ca000048e",
+    "item_name" : "aaa",
+    "created_at" : 0,
+    "_id" : ObjectId("58dbb61037d61b1048006cce")
+}
+
+{
+    "user_id" : "5881b3f937d61b1ca000048d",
+    "item_name" : "aaa",
+    "created_at" : 0,
+    "_id" : ObjectId("58dbb66937d61b1048006cd1")
+}

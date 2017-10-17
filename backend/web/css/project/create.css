@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+.content-modal {
+    min-height: 0px !important;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+    padding: 2px 10px !important;
+}
+
+.dataTables_filter{
+	display: none !important;
+}
